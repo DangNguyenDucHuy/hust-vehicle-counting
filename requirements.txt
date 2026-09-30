@@ -1,0 +1,9 @@
+# video & image processing
+opencv-python
+
+# deep learning
+torch
+torchvision
+
+# to use .env
+python-dotenv
